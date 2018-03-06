@@ -8,6 +8,6 @@
         document.documentElement.style.fontSize=(winW/750)*100+"px";
     }
 })()
-// 1rem =100px
+// 1rem =10px
 // 屏幕最小支持320px
 // 最小字体10px
